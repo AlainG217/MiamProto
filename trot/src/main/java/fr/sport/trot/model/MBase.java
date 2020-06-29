@@ -18,7 +18,7 @@ import java.lang.reflect.Method;
 // Application
 import fr.sport.trot.base.BaseObject;
 import fr.sport.trot.error.TrotException;
-import java.time.LocalDateTime;
+Fimport java.time.LocalDateTime;
 
 /**
  *
